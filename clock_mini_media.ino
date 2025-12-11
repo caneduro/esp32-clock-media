@@ -30,8 +30,8 @@
 U8G2_SSD1306_128X64_NONAME_F_HW_I2C u8g2(U8G2_R0, U8X8_PIN_NONE);
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
-const char* ssid = "Wind3 HUB-077635";
-const char* password = "7qxmvlr4edo39q7p";
+const char* ssid = "YOURWIFI";
+const char* password = "YOURPASSWORD";
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP, "pool.ntp.org", 3600, 60000);
 
