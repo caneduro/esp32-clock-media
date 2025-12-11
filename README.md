@@ -100,9 +100,21 @@ The current version is not 100% complete and can definitely be refined by someon
 BTW right now all the text are in italian, so you need to change them to be your language + YOU NEED TO CHANGE WIFI CREDENTIALS OTHERWISE IT WON'T WORK AND OTA (if you need to)
 
 
+3D model view
 <img width="1206" height="784" alt="3D view" src="https://github.com/user-attachments/assets/9b33121f-6344-4fed-bbab-ece667476ef5" />
 
+Front view with clock
+<img alt="clock front view" src="https://github.com/user-attachments/assets/2dd2f314-48ce-457e-a07d-55ed6e2f283f" />
+
+Front view witch media
+<img alt="media front view" src="https://github.com/user-attachments/assets/44e589e9-cd5f-4aa9-9ad7-4351a2637a13" />
+
+Back internal view
 <img alt="Back hollow" src="https://github.com/user-attachments/assets/2f2a5e2c-d96a-498d-9f3b-778637fda139" />
+
+Internal view
+<img alt="Internal view" src="https://github.com/user-attachments/assets/902d7181-32a4-4306-8b3c-3803fb3362cf" />
+
 
 
 
