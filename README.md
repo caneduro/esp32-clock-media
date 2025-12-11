@@ -4,7 +4,7 @@
    It prints in about **1 hour** and uses only **~13 g of PLA** — perfect for a quick and satisfying build.
    ### **Features**
 - 🕒 Clean, high-contrast oled **time** display
-- 🎵 **Media** mode with track info and progress
+- 🎵 **Media** mode with track info, progress, duration, play/pause status, volume, scrolling if text too long
 - 📡 Wi-Fi6 communication with a simple Python script on your PC
 - 🔘 Uses the **on-board BOOT button** — no external switch needed 
 - 🧱 3-part enclosure with heat inserts + M2 screws
