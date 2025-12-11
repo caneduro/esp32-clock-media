@@ -86,10 +86,10 @@ Most C6 SuperMini boards auto-reset and you won’t need this step.
 - The serial monitor will confirm a successful upload.
 ### **✔️ 9. Test the device**
 - Open **Serial Monitor** (Tools → Serial Monitor) to check Wi-Fi logs or debug messages.
-- If using your BOOT button to toggle modes, verify it responds correctly once the device is running., \
-\
+- If using your BOOT button to toggle modes, verify it responds correctly once the device is running., 
 
-\
+
+
 ### **BUILDING INSTRUCTIONS**
 
 - Print the the file (1 part at a time or all at once as you prefer)
@@ -102,7 +102,7 @@ Most C6 SuperMini boards auto-reset and you won’t need this step.
 
 - connect to screen with jumper cables: 
 
-   gnd with gnd
+   -- gnd with gnd
 
    3v3 with 3v3 
 
