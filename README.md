@@ -84,5 +84,5 @@ All required files — firmware, the Python script, and all 3D models — are av
 👉 https://github.com/caneduro/esp32-clock-media
 The project is fully open‑source.
 Anyone can fork it, modify it, improve it, or contribute.
-The current version is not 100% complete and can definitely be refined by someone with more experience — contributions are welcome!
+The current version is not 100% complete and can definitely be refined by someone with more experience — contributions are welcome! 
  
