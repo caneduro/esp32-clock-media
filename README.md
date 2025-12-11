@@ -102,13 +102,13 @@ Most C6 SuperMini boards auto-reset and you won’t need this step.
 
 - connect to screen with jumper cables: 
 
-   -- gnd with gnd
+   - gnd with gnd
 
-   3v3 with 3v3 
+   - 3v3 with 3v3 
 
-   pin 20 with SCK
+   - pin 20 with SCK
 
-   pin 19 with SDA
+   - pin 19 with SDA
 
 - "coil" the cable to fit all inside the enclosure
 
