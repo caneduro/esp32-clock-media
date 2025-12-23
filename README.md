@@ -157,4 +157,4 @@ ToDo list
 
 
 If you want to help, you can talk to me on my discord
-[https://discord.gg/QAPAbSd2Ep](discord hereeee!!!)
+[https://discord.gg/QAPAbSd2Ep] (discord hereeee!!!)
