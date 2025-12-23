@@ -142,6 +142,12 @@ Back internal view
 Internal view
 <img alt="Internal view" src="https://github.com/user-attachments/assets/902d7181-32a4-4306-8b3c-3803fb3362cf" />
 
-
-
+ToDo list
+- [x] Update Python code to fix volume and postition (Note: when changing volume the song position may change temporarily idky)
+- [ ] Update C code to implement WiFi captive portal to connect instead of hardcoded wifi ssid and password
+- [ ] Add small clock on top of the Media mode (maybe with some animation changing from clock to media and vice versa) (so you could have clock on media mode but idk if the single core ESP32C6 could handle it)
+- [ ] Improve reactivity of the infos on Media mode (python side i think)
+- [ ] Think about adding a battery inside the casing or maybe another "battery module" that could be added behind with usb c
+- [ ] switch from screws and heat inserts to small magnets (maybe???)
+      
 
