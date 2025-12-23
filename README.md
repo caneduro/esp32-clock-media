@@ -151,3 +151,10 @@ ToDo list
 - [ ] switch from screws and heat inserts to small magnets (maybe???)
       
 
+
+
+
+
+
+If you want to help, you can talk to me on my discord
+[https://discord.gg/QAPAbSd2Ep](discord hereeee!!!)
